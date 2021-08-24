@@ -1,5 +1,7 @@
 /* global hljs, $ */
 
+// Test comment
+
 // initialize highlight.js for JavaScript code highlighting
 hljs.initHighlightingOnLoad()
 
